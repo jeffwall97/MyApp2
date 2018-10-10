@@ -18,7 +18,7 @@ namespace list_quickstart
                 fibonacciNumbers.Add(previous + previous2);
             }
             foreach (var item in fibonacciNumbers)
-                Console.WriteLine(item);
+                Console.WriteLine($"Number = {item}");
         }
 
         public static void WorkingWithStrings()
