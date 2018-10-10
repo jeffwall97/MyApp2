@@ -1,0 +1,11 @@
+/home/jwallsinger/myApp2/bin/Debug/netcoreapp2.1/myApp2.deps.json
+/home/jwallsinger/myApp2/bin/Debug/netcoreapp2.1/myApp2.runtimeconfig.json
+/home/jwallsinger/myApp2/bin/Debug/netcoreapp2.1/myApp2.runtimeconfig.dev.json
+/home/jwallsinger/myApp2/bin/Debug/netcoreapp2.1/myApp2.dll
+/home/jwallsinger/myApp2/bin/Debug/netcoreapp2.1/myApp2.pdb
+/home/jwallsinger/myApp2/obj/Debug/netcoreapp2.1/myApp2.csprojAssemblyReference.cache
+/home/jwallsinger/myApp2/obj/Debug/netcoreapp2.1/myApp2.csproj.CoreCompileInputs.cache
+/home/jwallsinger/myApp2/obj/Debug/netcoreapp2.1/myApp2.AssemblyInfoInputs.cache
+/home/jwallsinger/myApp2/obj/Debug/netcoreapp2.1/myApp2.AssemblyInfo.cs
+/home/jwallsinger/myApp2/obj/Debug/netcoreapp2.1/myApp2.dll
+/home/jwallsinger/myApp2/obj/Debug/netcoreapp2.1/myApp2.pdb
